@@ -1,5 +1,5 @@
+pip install nltk
 # import necessary packages
-
 import os
 import nltk
 import ssl
