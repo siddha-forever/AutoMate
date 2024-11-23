@@ -1,4 +1,4 @@
-pip install nltk
+#pip install nltk
 # import necessary packages
 import os
 import nltk
